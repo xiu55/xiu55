@@ -33,9 +33,7 @@ Here are some ideas to get you started:
 <h3 align="left">Languages and Tools :bowtie::</h3>
     <p align="left"> <a href="#" target="_blank"> <img
                 src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java"
-                width="50" height="40" margin-right="3px"/> <<!-- <a href="https://www.linux.org/" target="_blank"> <img
-                src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux"
-                width="40" height="40" margin-right="3px"/> </a> --> </a> <a href="https://www.mysql.com/" target="_blank"> <img
+                width="50" height="40" margin-right="3px"/> --> </a> <a href="https://www.mysql.com/" target="_blank"> <img
                 src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql"
                 width="55" height="40" margin-right="3px"/> </a> </a> <a href="https://www.oracle.com/" target="_blank"> <img
                 src="https://www.vectorlogo.zone/logos/oracle/oracle-ar21.svg" alt="oracle"
