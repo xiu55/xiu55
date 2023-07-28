@@ -33,13 +33,9 @@ Here are some ideas to get you started:
 <h3 align="left">Languages and Tools :bowtie::</h3>
     <p align="left"> <a href="#" target="_blank"> <img
                 src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java"
-                width="50" height="40" margin-right="3px"/> --> </a> <a href="https://www.mysql.com/" target="_blank"> <img
+                width="50" height="40" margin-right="3px"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img
                 src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql"
-                width="55" height="40" margin-right="3px"/> </a> </a> <a href="https://www.oracle.com/" target="_blank"> <img
-                src="https://www.vectorlogo.zone/logos/oracle/oracle-ar21.svg" alt="oracle"
-                width="40" height="40" margin-right="3px"/> </a> </a> <!--<a href="https://www.python.org" target="_blank"> <img
-                src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python"
-                width="50" height="40" margin-right="3px"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img
+                width="55" height="40" margin-right="3px"/> </a> </a> <a href="https://getbootstrap.com" target="_blank"> <img
                 src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="bootstrap"
                 width="40" height="40" margin-right="3px"/> </a> <a href="#" target="_blank"> <img
                 src="https://www.vectorlogo.zone/logos/php/php-ar21.svg" alt="php"
