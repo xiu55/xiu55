@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **xiu55/xiu55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,23 +12,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
 <h1 align="center">Hi :v:, I am Sergio Plaza Espinosa 🏀 </h1>
-<h3 align="center">I am a Web Developer, from Chile </h3>
-<h4 align="center">I'm :balance_scale: and 🏇 </h4>
+<h3 align="center">I am a Developer(in process), from Chile </h3>
 
 ### About Me:
 
-- ⌨️ Full Stack Developer
-- 👨‍🏫 Industrial Mechanic
-- 🔧 Technology
+- ⌨️ Full Stack Developer(in process)
+- 🔧 Industrial Mechanic
+- 💻 Technology
 - ✈️ Machine Operator
 <!-- - I'm currently learning more about:
-    - <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="15" height="15" margin-right="3px"/> Microservices with Spring Boot
+    - <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="15" height="15" margin-right="3px"/> Oracle DATABASE
     - <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="spring" width="15" height="15" margin-right="3px"/> Docker / Kubernetes
     - <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="spring" width="15" height="15" margin-right="3px"/> Node.js -->
-- :speech_balloon: How to reach me **kessi@koders.cl**
+- :speech_balloon: How to reach me **sergioxiufu@gmail.com**
 - :link: Connect with me: <a href="https://linkedin.com/in/fkessib" target="_blank"><img align="center" src="https://raw.githubusercontent.com/Dhamary08/Email-Sign/master/linkedin-in.png" alt="Jaime%20Reyes" height="30" width="25"/></a>
 
 
@@ -38,25 +33,13 @@ Here are some ideas to get you started:
 <h3 align="left">Languages and Tools :bowtie::</h3>
     <p align="left"> <a href="#" target="_blank"> <img
                 src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java"
-                width="50" height="40" margin-right="3px"/> </a> <a href="https://spring.io/" target="_blank"> <img
-                src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40"
-                height="40" margin-right="3px"/> </a> <!-- <a href="#" target="_blank"> <img
-                src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" width="40"
-                height="40" margin-right="3px"/> </a><a href="#" target="_blank"> <img
-                src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Node.js" width="40"
-                height="40" margin-right="3px"/> </a><a href="#" target="_blank"> <img
-                src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React" width="40"
-                height="40" margin-right="3px"/> </a></a> --> <a href="#" target="_blank"> <img
-                src="https://img.icons8.com/color/452/amazon-web-services.png" alt="AWS" width="40"
-                height="40" margin-right="3px"/> </a> <!-- <a href="https://www.linux.org/" target="_blank"> <img
+                width="50" height="40" margin-right="3px"/> <<!-- <a href="https://www.linux.org/" target="_blank"> <img
                 src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux"
                 width="40" height="40" margin-right="3px"/> </a> --> </a> <a href="https://www.mysql.com/" target="_blank"> <img
                 src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql"
                 width="55" height="40" margin-right="3px"/> </a> </a> <a href="https://www.oracle.com/" target="_blank"> <img
                 src="https://www.vectorlogo.zone/logos/oracle/oracle-ar21.svg" alt="oracle"
-                width="40" height="40" margin-right="3px"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img
-                src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg"
-                alt="postgresql" width="50" height="40" margin-right="3px"/> </a> <!--<a href="https://www.python.org" target="_blank"> <img
+                width="40" height="40" margin-right="3px"/> </a> </a> <!--<a href="https://www.python.org" target="_blank"> <img
                 src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python"
                 width="50" height="40" margin-right="3px"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img
                 src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="bootstrap"
