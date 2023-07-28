@@ -37,9 +37,7 @@ Here are some ideas to get you started:
                 src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql"
                 width="55" height="40" margin-right="3px"/> </a> </a> <a href="https://getbootstrap.com" target="_blank"> <img
                 src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="bootstrap"
-                width="40" height="40" margin-right="3px"/> </a> <a href="#" target="_blank"> <img
-                src="https://www.vectorlogo.zone/logos/php/php-ar21.svg" alt="php"
-                width="55" height="40" margin-right="3px"/> </a> --> 
+                width="40" height="40" margin-right="3px"/> </a> 
                 </a> <!-- <a href="#" target="_blank"> <img
                 src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" alt="sass"
                 width="40" height="40" margin-right="3px"/> </a> --> <a href="https://www.w3schools.com/css/" target="_blank"> <img
