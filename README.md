@@ -13,11 +13,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi :v:, I am Sergio Plaza Espinosa 🏀 </h1>
-<h3 align="center">I am a Developer(in process), from Chile </h3>
+<h3 align="center">I am a Developer, from Chile </h3>
 
 ### About Me:
 
-- ⌨️ Full Stack Developer(in process)
+- ⚡IT Engineer
+- ⌨️ Full Stack Developer
+- 💻 Analyst programmer
 - 🔧 Industrial Mechanic
 - 💻 Technology
 - ✈️ Machine Operator
